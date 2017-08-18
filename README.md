@@ -1,7 +1,5 @@
-# octopus 
-
-@ octupus
-#
+# Minha landing page
+# ainda em produção
 #
 
-# Cerberus
+# 
